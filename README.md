@@ -52,8 +52,22 @@ ___
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 &nbsp; &nbsp; 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
-  &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 <a href="https://fastify.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="40" /></a>
+    &nbsp; &nbsp;
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
+&nbsp; &nbsp;
+<a href="https://actix.rs/"><img src="https://actix.rs/img/logo-icon.png" height="40" /></a>
+&nbsp; &nbsp;
+<a href="https://www.sea-ql.org/SeaORM/"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" height="40" /></a>
+&nbsp; &nbsp;
+<a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
+  &nbsp; &nbsp;
+<a href="https://github.com/Aleph-Alpha/ts-rs"><img src="https://avatars.githubusercontent.com/u/61506608?s=48&v=4" height="40" /></a>
+  <!-- &nbsp; &nbsp;
+<a href=""><img src="" height="40" /></a>
+  &nbsp; &nbsp;
+<a href=""><img src="" height="40" /></a> -->
 </p>
 
 ---
@@ -61,7 +75,7 @@ ___
 ### <b>What I am studying now</b>👇🏻
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
+  Nothing
 </p>
   
 ___
