@@ -55,7 +55,7 @@ ___
 &nbsp; &nbsp; 
 <a href="https://fastify.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="40" /></a>
     &nbsp; &nbsp;
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
+<a href="https://rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
 &nbsp; &nbsp;
 <a href="https://actix.rs/"><img src="https://actix.rs/img/logo-icon.png" height="40" /></a>
 &nbsp; &nbsp;
