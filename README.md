@@ -4,6 +4,8 @@
 ### A passionate Full stack developer from Ukraine <img src="https://user-images.githubusercontent.com/84918090/201474845-932ac61c-7ed3-46f3-a552-7cabddb56eee.png">
 📫 How to reach me maksymzhuk759@gmail.com
 
+
+
 ___
 
 ### <b>Skills</b> 👇🏻
@@ -84,7 +86,11 @@ ___
 
 <a href="http://www.github.com/Maksym-Zhuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maksym-Zhuk&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Maksym-Zhuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksym-Zhuk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksym-Zhuk&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true)
+
+
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksym-Zhuk&show_icons=true&theme=dark&hide_border=true)
+
 ___
 
 ### You can find me there 👇🏻
