@@ -61,8 +61,6 @@ ___
 &nbsp; &nbsp;
 <a href="https://www.sea-ql.org/SeaORM/"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" height="40" /></a>
 &nbsp; &nbsp;
-<a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
-  &nbsp; &nbsp;
 <a href="https://github.com/Aleph-Alpha/ts-rs"><img src="https://avatars.githubusercontent.com/u/61506608?s=48&v=4" height="40" /></a>
   <!-- &nbsp; &nbsp;
 <a href=""><img src="" height="40" /></a>
@@ -78,6 +76,7 @@ ___
   <!-- Nothing -->
   <a href="https://rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
 &nbsp; &nbsp;
+  <a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
 </p>
 
 
