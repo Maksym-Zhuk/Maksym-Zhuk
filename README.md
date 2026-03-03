@@ -42,11 +42,7 @@ ___
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
 &nbsp; &nbsp; 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<!-- &nbsp; &nbsp; 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  -->
 &nbsp; &nbsp; 
-<!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-&nbsp; &nbsp;  -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 &nbsp; &nbsp; 
 <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/05aed0ca-8d50-482c-8328-82f796483a36" width="36" height="36" alt="Drizzle-ORM" /></a>
@@ -62,22 +58,32 @@ ___
 <a href="https://www.sea-ql.org/SeaORM/"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" height="40" /></a>
 &nbsp; &nbsp;
 <a href="https://github.com/Aleph-Alpha/ts-rs"><img src="https://avatars.githubusercontent.com/u/61506608?s=48&v=4" height="40" /></a>
-  <!-- &nbsp; &nbsp;
-<a href=""><img src="" height="40" /></a>
   &nbsp; &nbsp;
-<a href=""><img src="" height="40" /></a> -->
+    <a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
+  &nbsp; &nbsp;
+     <a href="https://turborepo.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ugzjttjfoBqbGI-thnvwTjih8DkoU0XJQQ&s" height="40" /></a>
+  &nbsp; &nbsp;
+       <a href="https://www.electronjs.org/"><img src="https://www.electronjs.org/assets/img/logo.svg" height="40" /></a>
+  &nbsp; &nbsp;
+       <a href="https://v2.tauri.app/"><img src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4" height="40" /></a>
+  &nbsp; &nbsp;
+       <a href="https://www.prisma.io/"><img src="https://www.prisma.io/docs-static/_next/static/media/logo-white.02012a6c.svg?dpl=dpl_EnzR8fxWva4ueE89NnJnHutAtb7d" height="40" /></a>
+  &nbsp; &nbsp;
 </p>
 
 ---
 
-### <b>What I am studying now</b>👇🏻
+### <b>What I am practicing now</b>👇🏻
 
 <p>
-  <!-- Nothing -->
   <a href="https://rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" alt="My Skills" /></a>
 &nbsp; &nbsp;
-  <a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
+  <a href="https://github.com/tokio-rs/axum"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
+&nbsp; &nbsp;
+<a href="https://github.com/launchbadge/sqlx"><img src="https://avatars.githubusercontent.com/u/10077001?s=48&v=4" height="40" /></a>
+&nbsp; &nbsp;
 </p>
+
 
 
   
