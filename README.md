@@ -9,66 +9,37 @@
 ___
 
 ### <b>Skills</b> 👇🏻
-<p>
+<p style="display: flex; flex-wrap: wrap; gap: 5px;">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-&nbsp; &nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
-&nbsp; &nbsp; 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> 
-&nbsp; &nbsp; 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
-&nbsp; &nbsp;
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-&nbsp; &nbsp;
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-&nbsp; &nbsp;
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> &nbsp; &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
-&nbsp; &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> 
-&nbsp; &nbsp; 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> 
-&nbsp; &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
-&nbsp; &nbsp; 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
-&nbsp; &nbsp; 
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> 
-&nbsp; &nbsp; 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-&nbsp; &nbsp; 
 <a href="https://zustand-demo.pmnd.rs/"> <img alt="React Zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" /></a>
-&nbsp; &nbsp; 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
-&nbsp; &nbsp; 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-&nbsp; &nbsp; 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-&nbsp; &nbsp; 
 <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/05aed0ca-8d50-482c-8328-82f796483a36" width="36" height="36" alt="Drizzle-ORM" /></a>
-&nbsp; &nbsp; 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-&nbsp; &nbsp; 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
-&nbsp; &nbsp; 
 <a href="https://fastify.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="40" /></a>
-    &nbsp; &nbsp;
 <a href="https://actix.rs/"><img src="https://actix.rs/img/logo-icon.png" height="40" /></a>
-&nbsp; &nbsp;
 <a href="https://www.sea-ql.org/SeaORM/"><img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" height="40" /></a>
-&nbsp; &nbsp;
 <a href="https://github.com/Aleph-Alpha/ts-rs"><img src="https://avatars.githubusercontent.com/u/61506608?s=48&v=4" height="40" /></a>
-  &nbsp; &nbsp;
-    <a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
-  &nbsp; &nbsp;
-     <a href="https://turborepo.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ugzjttjfoBqbGI-thnvwTjih8DkoU0XJQQ&s" height="40" /></a>
-  &nbsp; &nbsp;
-       <a href="https://www.electronjs.org/"><img src="https://www.electronjs.org/assets/img/logo.svg" height="40" /></a>
-  &nbsp; &nbsp;
-       <a href="https://v2.tauri.app/"><img src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4" height="40" /></a>
-  &nbsp; &nbsp;
-       <a href="https://www.prisma.io/"><img src="https://www.prisma.io/docs-static/_next/static/media/logo-white.02012a6c.svg?dpl=dpl_EnzR8fxWva4ueE89NnJnHutAtb7d" height="40" /></a>
-  &nbsp; &nbsp;
+<a href="https://tokio.rs/"><img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" /></a>
+<a href="https://turborepo.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ugzjttjfoBqbGI-thnvwTjih8DkoU0XJQQ&s" height="40" /></a>
+<a href="https://www.electronjs.org/"><img src="https://www.electronjs.org/assets/img/logo.svg" height="40" /></a>
+<a href="https://v2.tauri.app/"><img src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4" height="40" /></a>
+<a href="https://www.prisma.io/"><img src="https://www.prisma.io/docs-static/_next/static/media/logo-white.02012a6c.svg?dpl=dpl_EnzR8fxWva4ueE89NnJnHutAtb7d" height="40" /></a>
 </p>
 
 ---
