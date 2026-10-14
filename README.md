@@ -45,32 +45,18 @@ ___
     <td><a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/assets/img/logo.svg" width="36" height="36" alt="Electron" /></a></td>
     <td><a href="https://v2.tauri.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54536011?s=48&v=4" width="36" height="36" alt="Tauri" /></a></td>
     <td><a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.prisma.io/docs-static/_next/static/media/logo-white.02012a6c.svg" width="36" height="36" alt="Prisma" /></a></td>
+    
   </tr>
 </table>
 
----
+<!-- ---
 
-### <b>What I am practicing now</b>👇🏻
+ ### <b>What I am practicing now</b>👇🏻
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://rust-lang.org/">
-        <img src="https://skillicons.dev/icons?i=rust&theme=dark&perline=25" height="40" alt="Rust"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tokio-rs/axum">
-        <img src="https://avatars.githubusercontent.com/u/20248544?s=200&v=4" height="40" alt="Axum"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/launchbadge/sqlx">
-        <img src="https://avatars.githubusercontent.com/u/10077001?s=48&v=4" height="40" alt="SQLx"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="center"> 
+<tr>
+     </tr>
+</table> -->
 
 
 
